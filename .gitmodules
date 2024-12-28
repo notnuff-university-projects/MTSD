@@ -1,0 +1,6 @@
+[submodule "containers-example"]
+	path = containers-example
+	url = git@github.com:notnuff-university-projects/MTSD-lab3.git
+[submodule "sudoku-project"]
+	path = sudoku-project
+	url = git@github.com:notnuff-university-projects/MTSD-lab4.git
